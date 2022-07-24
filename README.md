@@ -7,7 +7,7 @@ Uma coleção de links para economistas (Em inglês, em breve farei upload de um
 * [Pesquisa](#pesquisa)
 * [Discussões](#discussões)
 * [Carreira](#carreira)
-* [Economia no GitHub](#economiagithub)
+* [Economia no GitHub](#economia-no-github)
 * [Literatura por Campo](#literatura)
 * [Licença](#licença)
 
